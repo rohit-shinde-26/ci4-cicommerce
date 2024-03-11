@@ -181,7 +181,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <h3>Download apps</h3>
-                    <p>Get an amazing app to make Your life easy</p>
+                    <p>Get an Rohit's shop app to make Your life easy</p>
                 </div>
                 <div class="col-md-6 text-md-right">
                     <a href="#"><img src="<?php echo base_url() . '/themes/' . $currentTheme ?>/assets/img/appstore.png" height="40"></a>
