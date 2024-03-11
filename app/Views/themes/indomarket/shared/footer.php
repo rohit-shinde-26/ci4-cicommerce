@@ -76,7 +76,7 @@
                 <div class="row">
                     <div class="col-lg-6 col-12">
                         <div class="left">
-                            <p>Copyright © 2021 <a href="http://indokoding.net" target="_blank">IndoKoding.net</a> -
+                            <p>Copyright © 2024 <a href="#" target="_blank">Rohit Shinde</a> -
                                 All Rights Reserved.</p>
                         </div>
                     </div>
